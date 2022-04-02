@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5KYOBWM8hPw5ds0pSMKD3x9k0q016CQQwgwee0+g3ub0oHmk+CSDYOz+w9ML8Kae0z1NO0rKJoc6w5kOaod75Q==",
+  "dgSpecHash": "OGPyNYWh9bCvZhK7zW9KMFjKWFKTM9QsOgtbfr8zsu2jeqEUy4fHhapS4joaUtt1V10+8NFEjiSo2kF+iSyNMA==",
   "success": true,
-  "projectFilePath": "/Users/mbowlin/Projects/DeployingAtStirTrek/DeployingAtStirTrek/DeployingAtStirTrek.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mbowlin\\Source\\Repos\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbowlin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\mbowlin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mbowlin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mbowlin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

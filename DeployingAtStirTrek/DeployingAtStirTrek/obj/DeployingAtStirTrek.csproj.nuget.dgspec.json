@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mbowlin/Projects/DeployingAtStirTrek/DeployingAtStirTrek/DeployingAtStirTrek.csproj": {}
+    "C:\\Users\\mbowlin\\Source\\Repos\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek.csproj": {}
   },
   "projects": {
-    "/Users/mbowlin/Projects/DeployingAtStirTrek/DeployingAtStirTrek/DeployingAtStirTrek.csproj": {
+    "C:\\Users\\mbowlin\\Source\\Repos\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mbowlin/Projects/DeployingAtStirTrek/DeployingAtStirTrek/DeployingAtStirTrek.csproj",
+        "projectUniqueName": "C:\\Users\\mbowlin\\Source\\Repos\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek.csproj",
         "projectName": "DeployingAtStirTrek",
-        "projectPath": "/Users/mbowlin/Projects/DeployingAtStirTrek/DeployingAtStirTrek/DeployingAtStirTrek.csproj",
-        "packagesPath": "/Users/mbowlin/.nuget/packages/",
-        "outputPath": "/Users/mbowlin/Projects/DeployingAtStirTrek/DeployingAtStirTrek/obj/",
+        "projectPath": "C:\\Users\\mbowlin\\Source\\Repos\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek.csproj",
+        "packagesPath": "C:\\Users\\mbowlin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbowlin\\Source\\Repos\\DeployingAtStirTrek\\DeployingAtStirTrek\\DeployingAtStirTrek\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/mbowlin/.config/NuGet/NuGet.Config"
+          "C:\\Users\\mbowlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +52,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -58,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
